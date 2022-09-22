@@ -695,7 +695,7 @@ sourcemap-codec@^1.4.8:
 
 "stqry-viewport@https://github.com/mytours/stqry-viewport":
   version "0.0.0"
-  resolved "https://github.com/mytours/stqry-viewport#d919a3bbee427e9706d22e9919853eb0c042430d"
+  resolved "https://github.com/mytours/stqry-viewport#159e95be17bfd9eaf920b31670f56dafa2939ea4"
   dependencies:
     react "^18.2.0"
     react-dom "^18.2.0"
